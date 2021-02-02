@@ -3,7 +3,7 @@ import sys
 
 # dont touch this stuff 
 
-taskNum = 7
+taskNum = 8
 numtasks = 4
 variables = {}
 perfect = True
