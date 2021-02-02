@@ -27,6 +27,8 @@ Integer Y (the height of the testing zone)
 __________________________________________________________________________________
 **Output**:
 2D List rows as newlines (each list of the embedded lists is a newline of the answer)
+
+Make sure to add a newline at the end of your answer for it to match the answer format.
 __________________________________________________________________________________
 **optional challenge: write your code in under 10 lines**
 
